@@ -7,4 +7,5 @@ Please see the report for more details. (In Chinese, English version to be added
 * Optimized binary tree parallel reduction in CUDA up to a warp level. Utilized techniques such as sequential addressing, first add during load, and warp unrolling.
 * Numerically computed Poisson equation with Jacobi method, Red & Black Gauss-Seidel method, and Block-wise Gauss-Seidel method on GPU. Tuned hyper-parameters with grid search and optimized memory access with 3-D texture memory. Enhanced the time/bandwidth efficiency by 26 times.
 
-![CUDA poster](https://user-images.githubusercontent.com/45305359/211681187-016842f5-224d-4283-b9b6-c839ba454688.jpg)
+![CUDA poster](https://user-images.githubusercontent.com/45305359/211681534-d7c2b59c-a6fb-4bba-9a40-530a9e777f6f.jpg)
+
